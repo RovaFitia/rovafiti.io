@@ -261,7 +261,7 @@ h1 {
     height: 40px;
     border: 1px solid black;
     border-radius: 50%;
-    background-image: url("sun.svg");
+    background-image: url("../image/sun.svg");
     background-size: 55%;
     background-position: center;
     background-repeat: no-repeat;
@@ -275,7 +275,7 @@ h1 {
     border-color: white;
 }
 .cercle.active {
-    background-image: url("moon.svg");
+    background-image: url("../image/moon.svg");
     background-color: #fff;
     transform: translateX(67px);
     transition: all linear .2s;
